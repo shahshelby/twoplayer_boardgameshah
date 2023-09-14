@@ -10,5 +10,8 @@
         <module name="BoardGame" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="twoplayer_boardgameshah" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>

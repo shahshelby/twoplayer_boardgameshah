@@ -1,0 +1,71 @@
+[ {
+  "dateStarted" : "2023-05-27T13:05:05.262423Z",
+  "redPlayer" : "Shah",
+  "bluePlayer" : "John",
+  "numberOfMovesRed" : 5,
+  "numberOfMovesBlue" : 4,
+  "winnerName" : "John"
+}, {
+  "dateStarted" : "2023-05-30T18:18:06.4575326Z",
+  "redPlayer" : "Smithy",
+  "bluePlayer" : "McCall",
+  "numberOfMovesRed" : 4,
+  "numberOfMovesBlue" : 4,
+  "winnerName" : "Smithy"
+}, {
+  "dateStarted" : "2023-05-30T18:18:24.3410164Z",
+  "redPlayer" : "Shah",
+  "bluePlayer" : "Mi",
+  "numberOfMovesRed" : 4,
+  "numberOfMovesBlue" : 4,
+  "winnerName" : "Shah"
+}, {
+  "dateStarted" : "2023-05-30T18:18:40.929341Z",
+  "redPlayer" : "Amy",
+  "bluePlayer" : "Guy",
+  "numberOfMovesRed" : 3,
+  "numberOfMovesBlue" : 2,
+  "winnerName" : "Guy"
+}, {
+  "dateStarted" : "2023-05-30T18:18:58.761512Z",
+  "redPlayer" : "Almat",
+  "bluePlayer" : "Dimitri",
+  "numberOfMovesRed" : 4,
+  "numberOfMovesBlue" : 4,
+  "winnerName" : "Almat"
+}, {
+  "dateStarted" : "2023-05-30T18:19:16.6104478Z",
+  "redPlayer" : "Dimitri",
+  "bluePlayer" : "Almat",
+  "numberOfMovesRed" : 3,
+  "numberOfMovesBlue" : 2,
+  "winnerName" : "Almat"
+}, {
+  "dateStarted" : "2023-05-31T11:44:55.4658567Z",
+  "redPlayer" : "Shah",
+  "bluePlayer" : "Jeff",
+  "numberOfMovesRed" : 6,
+  "numberOfMovesBlue" : 6,
+  "winnerName" : "Shah"
+}, {
+  "dateStarted" : "2023-06-01T09:15:36.326489Z",
+  "redPlayer" : "Jeff",
+  "bluePlayer" : "John",
+  "numberOfMovesRed" : 4,
+  "numberOfMovesBlue" : 3,
+  "winnerName" : "John"
+}, {
+  "dateStarted" : "2023-06-01T09:15:56.8601719Z",
+  "redPlayer" : "John",
+  "bluePlayer" : "Mike",
+  "numberOfMovesRed" : 3,
+  "numberOfMovesBlue" : 2,
+  "winnerName" : "Mike"
+}, {
+  "dateStarted" : "2023-09-14T18:19:58.8840374+02:00",
+  "redPlayer" : "Shah",
+  "bluePlayer" : "Thittinan",
+  "numberOfMovesRed" : 6,
+  "numberOfMovesBlue" : 5,
+  "winnerName" : "Thittinan"
+} ]
